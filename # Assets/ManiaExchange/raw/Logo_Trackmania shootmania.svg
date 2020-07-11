@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   width="309"
+   height="309"
+   viewBox="0 0 309 309"
+   enable-background="new 0 0 309 75"
+   xml:space="preserve"
+   sodipodi:docname="Logo_Trackmania shootmania.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-filename="D:\Git\PreMiD-Presences-Personal\# Assets\ManiaExchange\tm.png"
+   inkscape:export-xdpi="318.13593"
+   inkscape:export-ydpi="318.13593"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" /><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview19"
+   showgrid="false"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="91.388961"
+   inkscape:cy="142.21474"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g33" />
+
+
+
+
+
+
+
+<g
+   id="g33"
+   transform="translate(1,113.492)"><path
+     style="fill:#000000"
+     id="path2"
+     d="m 7,12 c 48,0 96,0 144,0 -0.083,0.25 0,12 0,12 -43.473,0.258 -94.396,0.062 -144,0 0,-4 0,-8 0,-12 z"
+     fill="#373737" /><path
+     style="fill:#000000"
+     id="path4"
+     d="m 300,12 c 0,19 -0.133,39.011 -0.133,58.011 L 287.001,69.946 V 24.076 C 249.992,24.125 156,24 156,24 L 155.936,11.942 C 203.602,11.942 252.334,12 300,12 Z"
+     fill="#373737" /><path
+     style="fill:#000000"
+     id="path10"
+     d="M 89,70"
+     fill="#373737" /><path
+     style="fill:#000000"
+     id="path12"
+     d="M 156.066,70.074 156,27 l 14.001,-0.064 0.065,43.136"
+     fill="#373737" /><path
+     style="fill:#000000"
+     id="path14"
+     d="m 173,70 c -0.234,-7.752 -0.033,-32.319 0,-43 18,0 36,0 54,0 0,14.333 0,28.667 0,43 h -4 -8 c -0.333,0 -0.667,0 -1,0 0,-9.667 0,-19.333 0,-29 L 184.867,40.945 185,70"
+     fill="#373737" /><path
+     style="fill:#000000"
+     id="path16"
+     d="M 270.936,70.012 271,41 h -27 l 0.001,28.943 C 243.668,69.943 241.333,70 241,70 h -10 c -0.333,0 -0.667,0 -1,0 0,-14.333 0,-28.667 0,-43 18,0 36,0 54,0 0,14.333 0,28.667 0,43"
+     fill="#373737" /><path
+     fill="#373737"
+     d="m 7,27 c 48,0 96,0 144,0 -0.083,0.284344 0,13.648497 0,13.648497 -43.47299,0.293443 -94.396,0.07052 -144,0 C 7,36.098998 7,31.549499 7,27 Z"
+     id="path2-6"
+     style="fill:#000000;stroke-width:1.06648" /><path
+     fill="#373737"
+     d="m 7,58.071 c 48,0 96.00001,0 144,0 -0.083,0.25 0,12 0,12 -43.473,0.258 -94.396,0.062 -144,0 0,-4 0,-8 0,-12 z"
+     id="path2-1"
+     style="fill:#000000" /><path
+     fill="#373737"
+     d="M 137.046,70.074 136.98,27 l 14.001,-0.064 0.065,43.136"
+     id="path12-9"
+     style="fill:#000000" /></g>
+</svg>
